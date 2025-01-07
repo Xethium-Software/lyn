@@ -1,0 +1,3 @@
+/home/ausr/Documents/Projects/lyn/build/CMakeFiles/lyn.dir
+/home/ausr/Documents/Projects/lyn/build/CMakeFiles/edit_cache.dir
+/home/ausr/Documents/Projects/lyn/build/CMakeFiles/rebuild_cache.dir
